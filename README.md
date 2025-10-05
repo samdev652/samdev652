@@ -34,7 +34,7 @@ Software developer specializing in React, Next.js, and Django applications. I bu
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,python,django,mongodb,mysql,firebase,git,aws,docker,linux,figma" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,python,django,mongodb,mysql,firebase,git,aws,linux,figma" alt="tech stack" />
 </p>
 
 ---
