@@ -58,9 +58,16 @@
 
 ### 🧭 Commit Compass
 
-<div align="center">
-  <img src="https://github.com/samdev652/samdev652/blob/output/github-contribution-grid-snake.svg" alt="Commit Compass" width="800" />
-</div>
+<!-- Contribution compass / snake — uses raw.githubusercontent.com so it renders -->
+<p align="center">
+  <picture>
+    <!-- dark-mode variant -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/github-contribution-grid-snake-dark.svg" />
+    <!-- light-mode / fallback -->
+    <img alt="GitHub contribution compass" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 
 > 🟩 Each green square is a **commit**—proof of consistency, growth, and dedication.
 
