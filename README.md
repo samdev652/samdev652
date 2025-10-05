@@ -1,5 +1,16 @@
-<h1 align="center">Welcome, Fellow Engineer. Precision Meets Passion Here.</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome,+Fellow+Engineer.;Precision+Meets+Passion+Here.;Turning+Ideas+into+Impactful+Software.🚀" alt="Typing Animation" />
+</h1>
+
+<h3 align="center">💻 Passionate Software Developer | 🇰🇪 Based in Kenya | Building Scalable Web Experiences</h3>
+
+<p align="center">
+  <a href="https://twitter.com/the_samdev652" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/the_samdev652?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sambaraks652&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdev652&label=Profile%20views&color=0e75b6&style=flat" alt="samdev652" /> </p>
 
