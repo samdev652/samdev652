@@ -1,73 +1,78 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Samuel+Baraka!;A+Passionate+Software+Engineer+From+Kenya.;Crafting+Scalable+and+Impactful+Web+Experiences.🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=680&lines=Samuel+Baraka;Software+Engineer+%7C+React+Developer;Building+Impactful+Web+Applications" alt="Samuel Baraka Typing Intro" />
 </h1>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400" alt="Coding Animation"/>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="480" alt="Coding animation" />
+</p>
 
-<h3 align="center">💻 Passionate Software Developer | 🇰🇪 Based in Kenya | Building Scalable Web Experiences</h3>
+<h3 align="center">💻 Passionate Software Developer | 🇰🇪 Kenya — Crafting scalable, accessible web experiences</h3>
 
 ---
 
+### 👋 About
+- 🔭 Working on personal & open-source React / Next.js projects  
+- 🌱 Learning advanced frontend patterns, Tailwind & backend integration with Django  
+- 👯 Open to collaborate on production-grade JavaScript/TypeScript projects  
+- 💬 Ask me about React, Tailwind CSS, Firebase, and scalable frontends  
+- 📫 Email: **sambaraks652@gmail.com**
+
+---
+
+### 🌐 Connect
 <p align="center">
-  <a href="https://twitter.com/the_samdev652" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/the_samdev652?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=samdev652&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/samdev652" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="36" alt="github" /></a>
+  &nbsp;
+  <a href="https://twitter.com/the_samdev652" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="36" alt="twitter" /></a>
+  &nbsp;
+  <a href="https://dev.to/unpluggedalpha" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="36" alt="dev.to" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/24487987/sam-dev652" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="36" alt="stackoverflow" /></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/barakaandrew" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" width="36" alt="kaggle" /></a>
+  &nbsp;
+  <a href="https://instagram.com/smart_contract_wizard" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="36" alt="instagram" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/simplesam/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="36" alt="leetcode" /></a>
+  &nbsp;
+  <a href="https://discord.gg/baraka_652" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="36" alt="discord" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **personal and open-source projects**
-- 🌱 Learning **Tailwind CSS, Next.js, and Django**
-- 👯 Looking to collaborate on **JavaScript and React projects**
-- 💬 Ask me about **React, Tailwind CSS, or Python**
-- 📫 Reach me via **sambaraks652@gmail.com**
-- ⚡ Fun fact: *My keyboard glows with my mood.*
-
----
-
-### 🌍 Connect With Me
+### 🧰 Tech Stack
 <p align="center">
-  <a href="https://dev.to/unpluggedalpha" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40"/></a>
-  <a href="https://twitter.com/the_samdev652" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-  <a href="https://stackoverflow.com/users/24487987/sam-dev652" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40"/></a>
-  <a href="https://www.kaggle.com/barakaandrew" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>
-  <a href="https://instagram.com/smart_contract_wizard" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="https://leetcode.com/u/simplesam/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
-  <a href="https://discord.gg/baraka_652" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,nodejs,mongodb,mysql,firebase,git,linux,figma,postman,aws" alt="tech stack" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,mongodb,mysql,firebase,git,linux,figma,postman,aws" />
-</p>
-
----
-
-### 📊 GitHub Analytics (Vertical Layout)
+### 📊 GitHub Snapshot (vertical, dark)
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=samdev652&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samdev652&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&theme=tokyonight&hide_border=true" width="420" alt="Top languages" />
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution calendar
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samdev652&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <!-- reliable calendar heatmap -->
+  <img src="https://ghchart.rshah.org/samdev652" alt="Contribution calendar" />
 </p>
 
 ---
+
+<!-- =========================
+   🧭 Commit Compass (RADAR + Cards)
+   Using the exact commit-compass cards you supplied
+   ========================= -->
 
 <!-- 🧭 GitHub Commit Compass -->
 <h2 align="center">🧭 Commit Compass</h2>
@@ -78,11 +83,13 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdev652&theme=github_dark" alt="Top Languages by Repo" />
+  &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samdev652&theme=github_dark" alt="Most Commit Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samdev652&theme=github_dark" alt="GitHub Stats Card" />
+  &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdev652&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
