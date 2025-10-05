@@ -58,18 +58,28 @@
 
 ### 🧭 Commit Compass
 
-<!-- Contribution compass / snake — uses raw.githubusercontent.com so it renders -->
+<!-- 🧭 GitHub Commit Compass -->
+<h2 align="center">🧭 Commit Compass</h2>
+
 <p align="center">
-  <picture>
-    <!-- dark-mode variant -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/github-contribution-grid-snake-dark.svg" />
-    <!-- light-mode / fallback -->
-    <img alt="GitHub contribution compass" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samdev652&theme=github_dark&utcOffset=8" alt="Commit Time Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdev652&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samdev652&theme=github_dark" alt="Most Commit Languages" />
+</p>
 
-> 🟩 Each green square is a **commit**—proof of consistency, growth, and dedication.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samdev652&theme=github_dark" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdev652&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+
+<!-- 🧭 Real Commit Compass Radar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-contributions?username=samdev652&theme=github_dark" alt="Commit Compass Radar" />
+</p>
+
 
 ---
 
