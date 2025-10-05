@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=680&lines=Samuel+Baraka;Software+Engineer+%7C+React+Developer;Building+Impactful+Web+Applications" alt="Samuel Baraka Typing Intro" />
 </h1>
@@ -48,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Snapshot (vertical, dark)
+### 📊 GitHub Analytics
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats" />
@@ -61,20 +60,7 @@
 
 ---
 
-### 📈 Contribution calendar
-<p align="center">
-  <!-- reliable calendar heatmap -->
-  <img src="https://ghchart.rshah.org/samdev652" alt="Contribution calendar" />
-</p>
-
----
-
-<!-- =========================
-   🧭 Commit Compass (RADAR + Cards)
-   Using the exact commit-compass cards you supplied
-   ========================= -->
-
-<!-- 🧭 GitHub Commit Compass -->
+<!-- 🧭 Commit Compass Section -->
 <h2 align="center">🧭 Commit Compass</h2>
 
 <p align="center">
@@ -93,9 +79,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdev652&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
-<!-- 🧭 Real Commit Compass Radar -->
+<!-- ✅ Working Commit Compass Radar -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-contributions?username=samdev652&theme=github_dark" alt="Commit Compass Radar" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats-featured/main/commits-radar.svg" alt="Commit Compass Radar (commits vs PRs vs reviews)" width="480"/>
 </p>
 
 ---
