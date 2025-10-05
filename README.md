@@ -10,6 +10,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=samdev652&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
 ## 👋 About Me
 
 Full-stack software engineer specializing in React/Next.js applications with TypeScript. I build scalable, production-ready web solutions with clean code and modern best practices.
@@ -67,6 +77,22 @@ Full-stack software engineer specializing in React/Next.js applications with Typ
   <a href="https://dev.to/unpluggedalpha"><img src="https://skillicons.dev/icons?i=devto" width="36" /></a>
   <a href="https://discord.gg/baraka_652"><img src="https://skillicons.dev/icons?i=discord" width="36" /></a>
 </p>
+
+---
+
+## 🧭 Commit Compass Radar
+
+<div align="center">
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=samdev652&theme=radical&hide_border=true" width="600" alt="Contributor Stats" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdev652&theme=radical" alt="Detailed Contribution Graph" />
+  
+</div>
 
 ---
 
