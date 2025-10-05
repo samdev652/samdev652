@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Samuel+Baraka;Full-Stack+Software+Engineer;React+%7C+TypeScript+%7C+Next.js" alt="Samuel Baraka" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Samuel+Baraka;Software+Developer;React+%7C+Next.js+%7C+Django" alt="Samuel Baraka" />
 </h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="500" alt="Coding animation" />
 </p>
 
-<h3 align="center">💼 Full-Stack Engineer | 🇰🇪 Kenya</h3>
+<h3 align="center">💼 Software Developer | 🇰🇪 Kenya</h3>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-Full-stack software engineer specializing in React/Next.js applications with TypeScript. I build scalable, production-ready web solutions with clean code and modern best practices.
+Software developer specializing in React, Next.js, and Django applications. I build scalable, production-ready web solutions with clean code and modern best practices.
 
 **Currently:**
 - 🔨 Building advanced React applications with TypeScript
