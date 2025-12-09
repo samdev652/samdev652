@@ -42,14 +42,22 @@ I’m **Samuel Baraka**, a software developer focused on building robust, scalab
 
 ## 📈 GitHub Analytics
 
+> ⚠️ **Note:**  
+> Sometimes dynamic GitHub analytics images (stats, streak, trophies) may not render due to rate limits or server downtime.  
+> For the most up-to-date view, please visit my [GitHub Profile](https://github.com/samdev652).
+
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=samdev652&margin-w=15&column=8&theme=gruvbox" alt="GitHub Trophies" />
+  <!-- 
+    If these images show "Error Fetching Resource," it's out of your control—servers may be rate-limited, overloaded, or require you to refresh. 
+    GitHub and external stat providers like vercel.app and herokuapp.com occasionally throttle requests or momentarily go offline. 
+    Consider using these image blocks and, if needed, host screenshots as a fallback.
+  -->
+  <img src="https://github-profile-trophy.vercel.app/?username=samdev652&margin-w=15&column=8&theme=gruvbox" alt="GitHub Trophies" onerror="this.style.display='none'"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdev652&theme=blueberry&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdev652&theme=blueberry&hide_border=true" height="150" alt="GitHub Streak" onerror="this.style.display='none'"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&hide_border=true&theme=default" height="145" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&hide_border=true&theme=default" height="145" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&hide_border=true&theme=default" height="145" alt="GitHub Stats" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&hide_border=true&theme=default" height="145" alt="Top Languages" onerror="this.style.display='none'"/>
 </p>
 
 ---
