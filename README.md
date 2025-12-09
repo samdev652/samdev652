@@ -42,11 +42,15 @@ I’m **Samuel Baraka**, a software developer focused on building robust, scalab
 
 ## 📈 GitHub Analytics
 
-> If dynamic images fail to load, here’s my [GitHub Profile](https://github.com/samdev652).
-
-**Languages & Stats:**  
-![Samdev652's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=samdev652&margin-w=15&column=8&theme=gruvbox" alt="GitHub Trophies" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdev652&theme=blueberry&hide_border=true" height="150" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&hide_border=true&theme=default" height="145" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&hide_border=true&theme=default" height="145" alt="Top Languages"/>
+</p>
 
 ---
 
