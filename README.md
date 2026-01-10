@@ -1,3 +1,11 @@
+<div align="center">
+  
+# 👋 Welcome! 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&repeat=true&width=800&lines=Samuel+Baraka;Problem+Solver+%F0%9F%A7%A9+Solutions+Architect;Transforming+Ideas+into+Reality;Building+the+Future+with+Code+%F0%9F%9A%80;Empowering+Tech+Solutions;Innovation+Through+Technology)](https://git.io/typing-svg)
+
+</div>
+
 # 💫 About Me:
  🧩 Problem solver. 💻 Software developer.<br><br>• 🏗️ Build robust, scalable solutions for web and blockchain ecosystems<br><br>• 🎯 Embrace complex challenges and foster collaboration<br><br>• 📚 Continuously learning and evolving<br><br>• ✨ Focused on delivering impactful products that work
 
@@ -12,16 +20,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samdev652&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samdev652&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samdev652&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=samdev652&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
