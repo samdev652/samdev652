@@ -1,80 +1,27 @@
-# Samuel Baraka &nbsp;|&nbsp; Software Developer
+# 💫 About Me:
+ 🧩 Problem solver. 💻 Software developer.<br><br>• 🏗️ Build robust, scalable solutions for web and blockchain ecosystems<br><br>• 🎯 Embrace complex challenges and foster collaboration<br><br>• 📚 Continuously learning and evolving<br><br>• ✨ Focused on delivering impactful products that work
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sam.dev652?igsh=a213MzNscXkwZGM4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sambaraks652) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/the_samdev652) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samdev652&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samdev652&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samdev652&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samdev652&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=samdev652&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2200&pause=1200&color=0984e3&center=true&width=570&lines=Crafting+robust,+scalable+products.;Fullstack+Developer+%7C+Web+%26+Web3.;Obsessed+with+Quality+and+Impact." alt="Professional Typing Headline">
-</p>
-
----
-
-## 👋 About Me
-
-I’m **Samuel Baraka**, a software developer focused on building robust, scalable products for the web and blockchain ecosystems. I bring a strong passion for problem-solving, collaboration, and continuous learning, always striving to deliver high-quality, impactful solutions.
-
----
-
-## 🛠️ Core Skills
-
-<table>
-  <tr>
-    <th align="left">Frontend</th>
-    <th align="left">Backend & APIs</th>
-    <th align="left">Blockchain & Web3</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,figma" height="32"/><br/>
-      <sub>React · Next.js · TypeScript · JavaScript · Figma · Responsive Design</sub>
-    </td>
-    <td valign="top">
-      <img src="https://skillicons.dev/icons?i=python,django,postgres" height="32"/><br/>
-      <sub>Python · Django · RESTful APIs · PostgreSQL</sub>
-    </td>
-    <td valign="top">
-      <img src="https://skillicons.dev/icons?i=solidity,web3js,hardhat" height="32"/><br/>
-      <sub>Solidity · Smart Contracts · Web3.js · Hardhat · Ether.js</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
-> ⚠️ **Note:**  
-> Sometimes dynamic GitHub analytics images (stats, streak, trophies) may not render due to rate limits or server downtime.  
-> For the most up-to-date view, please visit my [GitHub Profile](https://github.com/samdev652).
-
-<p align="center">
-  <!-- 
-    If these images show "Error Fetching Resource," it's out of your control—servers may be rate-limited, overloaded, or require you to refresh. 
-    GitHub and external stat providers like vercel.app and herokuapp.com occasionally throttle requests or momentarily go offline. 
-    Consider using these image blocks and, if needed, host screenshots as a fallback.
-  -->
-  <img src="https://github-profile-trophy.vercel.app/?username=samdev652&margin-w=15&column=8&theme=gruvbox" alt="GitHub Trophies" onerror="this.style.display='none'"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdev652&theme=blueberry&hide_border=true" height="150" alt="GitHub Streak" onerror="this.style.display='none'"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=samdev652&show_icons=true&hide_border=true&theme=default" height="145" alt="GitHub Stats" onerror="this.style.display='none'"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev652&layout=compact&hide_border=true&theme=default" height="145" alt="Top Languages" onerror="this.style.display='none'"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="mailto:sambaraks652@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sam-baraka-652"><img src="https://img.shields.io/badge/LinkedIn-Portfolio-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/the_samdev652"><img src="https://img.shields.io/twitter/follow/the_samdev652?style=flat-square&logo=twitter"></a>
-  <a href="https://dev.to/unpluggedalpha"><img src="https://img.shields.io/badge/dev.to-Blog-0A0A0A?style=flat-square&logo=devdotto"></a>
-  <a href="https://leetcode.com/simplesam/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"></a>
-  <a href="https://stackoverflow.com/users/24487987/sam-dev652"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F48024?style=flat-square&logo=stackoverflow"></a>
-</p>
-
----
-
-<!--
-If you're looking for a reliable, quality-driven developer passionate about fullstack and blockchain engineering, let's connect!
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
