@@ -9,6 +9,8 @@
 # 💫 About Me:
  🧩 Problem solver. 💻 Software developer.<br><br>• 🏗️ Build robust, scalable solutions for web and blockchain ecosystems<br><br>• 🎯 Embrace complex challenges and foster collaboration<br><br>• 📚 Continuously learning and evolving<br><br>• ✨ Focused on delivering impactful products that work
 
+## 🚀 Deployed Projects:
+[![Netflix Clone](https://img.shields.io/badge/Netflix_Clone-Live-E50914?style=for-the-badge&logo=vercel&logoColor=white)](https://netflix-clone-phi-one-87.vercel.app/login) [![CryptoPlace](https://img.shields.io/badge/CryptoPlace-Live-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://cryptoplace-kappa-ten.vercel.app/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sam.dev652?igsh=a213MzNscXkwZGM4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sambaraks652) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/the_samdev652) 
@@ -33,9 +35,3 @@
 [![](https://visitcount.itsvg.in/api?id=samdev652&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
